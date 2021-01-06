@@ -1,0 +1,186 @@
+
+    
+}
+nav{
+    text-align: left;
+}
+body{
+     margin:0;
+     font-family: 'Poppins',sans-serif;
+    }
+
+h1{
+    font-size: 50px;
+
+}
+h3{
+    font-size:35px;
+}
+.about{
+    padding-top: 60px;
+}
+.para{
+    text-align: justify;
+
+}
+
+
+
+
+span{
+    color: salmon;
+}
+
+.rob{
+    padding-top:5%;
+}
+
+.link-button{
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+  
+
+}
+
+.width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.width img{
+    width:400px;
+    height:400px;
+    margin-top: 5%;
+    padding-left: 3%;
+}
+
+#sec{
+    height: 500px;
+    padding-bottom: 5%;
+}
+
+
+
+
+
+
+
+
+.sec-box-background{
+    background-color: rgba(182, 182, 182, 0.199);
+    height:600px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.latest{
+    text-align: center;
+    padding:50px;
+    
+}
+
+p{
+    margin-bottom:2%;
+}
+
+span{
+    color:orange;
+}
+.half-width{
+    width:340px;
+    height:400px;
+    display:inline-block;
+    margin-left: 5%;
+    padding-left: 2%;
+  
+
+}
+
+.half-width img{
+    width:280px;
+    height:200px;
+    margin-left:5%;
+    margin-top: 5%;
+        
+    }
+    
+.single-box{
+    border: 1px;
+    box-shadow:10px 10px 40px gray ;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.chat{
+    margin-top: 70px;
+    margin-left: 80px;
+    
+}
+
+.work-enq{
+    margin-top:200px;
+    background-image: url(personal-website-main/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+    margin-left: 20%;
+    width:800px;
+
+    height:200px;
+    padding-left:20px;
+    color:white;
+   
+}
+
+footer{
+    text-align: center;
+
+}
+footer p{
+    font-size:25px;
+    font-family: monospace;
+
+}
+.icon-width{
+    
+    display: inline-block;
+    margin-left:2%%;
+    padding-left:2%;
+
+}
+.icon-width img{
+    height: 50px;
+    width: 50px;
+
+}
+.bonus{
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow:10px 10px 40px rgb(185, 146, 87) ;
+    border-radius: 10px;
+    height:80%;
+    background-color: white;
+
+
+}
+#website{
+    background-color: rgba(250, 196, 183, 0.925);
+    height:650px;
+}
+.dream{
+ margin-left: 470px;
+ box-shadow:10px 10px 40px rgb(185, 146, 87) ;
+}
+   
+
+
+
+
